@@ -33,7 +33,7 @@ Existing systems are either manual (e.g., social media posts) or expensive subsc
 
 ## 🏗️ System Architecture
 
-
+![Architecture Diagram](assets/diagram.png)
 
 React Frontend → AWS API Gateway → AWS Lambda → DynamoDB & S3
 ↑
