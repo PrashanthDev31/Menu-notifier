@@ -1,5 +1,7 @@
 # 🍽️ MenuNotifier — Smart Restaurant Menu Notification System
 
+www.menu-notifier.com
+
 ## 🚀 Overview
 **MenuNotifier** is a cloud-based web application that enables restaurant owners to instantly update and notify their customers about new menu items, offers, or changes — all through a simple dashboard.
 
